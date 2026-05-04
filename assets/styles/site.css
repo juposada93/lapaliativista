@@ -198,6 +198,15 @@ p {
   font-size: clamp(1.12rem, 1.55vw, 1.32rem);
 }
 
+.location-note {
+  margin-top: 10px;
+  color: var(--green);
+  font-size: 0.9rem;
+  font-weight: 760;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
 .credential-list {
   display: grid;
   gap: 18px;
