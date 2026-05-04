@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Diana Echavarria">
+  <rect width="64" height="64" rx="32" fill="#fffdf9"/>
+  <circle cx="32" cy="32" r="25" fill="#ffffff" stroke="#0b3f9d" stroke-width="3"/>
+  <path d="M25 43V20h8c7 0 12 4 12 11.5S40 43 33 43h-8Zm6-5h2c3.7 0 6-2.4 6-6.5S36.7 25 33 25h-2v13Z" fill="#0b3f9d"/>
+  <path d="M17 43V20h6v23h-6Z" fill="#4d8a58"/>
+</svg>
